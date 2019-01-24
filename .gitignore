@@ -1,4 +1,4 @@
 .settings/
 .project
 .pydevproject
-my.log
+*.log
